@@ -38,7 +38,7 @@ int find (int [] array)
 }
 
 
-int lenght = 10;
+int lenght = 123;
 int [] arr = array(lenght);
 Console.WriteLine(String.Join(",", arr));
 int count = find (arr);
