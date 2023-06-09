@@ -79,3 +79,6 @@ double max = minmax (myAr);
 Console.WriteLine($"min here: {Math.Round (min, 2)}");
 Console.WriteLine($"max here: {Math.Round (max, 2)}");
 wow(max, min);
+
+
+
